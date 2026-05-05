@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "Who founded OpenAI?",
+    "expected_answer": "OpenAI was founded by Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever, John Schulman, and Wojciech Zaremba.",
+    "type": "1-hop"
+  },
+  {
+    "id": 2,
+    "question": "When was OpenAI founded?",
+    "expected_answer": "OpenAI was founded in 2015.",
+    "type": "1-hop"
+  },
+  {
+    "id": 3,
+    "question": "Which company invested in OpenAI?",
+    "expected_answer": "Microsoft invested in OpenAI.",
+    "type": "1-hop"
+  },
+  {
+    "id": 4,
+    "question": "Which products did Microsoft integrate OpenAI models into?",
+    "expected_answer": "Microsoft integrated OpenAI models into Azure AI, Microsoft Copilot, GitHub Copilot, and Bing Chat.",
+    "type": "1-hop"
+  },
+  {
+    "id": 5,
+    "question": "Who founded Google?",
+    "expected_answer": "Google was founded by Larry Page and Sergey Brin.",
+    "type": "1-hop"
+  },
+  {
+    "id": 6,
+    "question": "Which company acquired DeepMind?",
+    "expected_answer": "Google acquired DeepMind.",
+    "type": "1-hop"
+  },
+  {
+    "id": 7,
+    "question": "What did DeepMind develop?",
+    "expected_answer": "DeepMind developed AlphaGo and AlphaFold.",
+    "type": "1-hop"
+  },
+  {
+    "id": 8,
+    "question": "How is Google related to AlphaGo?",
+    "expected_answer": "Google acquired DeepMind, and DeepMind developed AlphaGo.",
+    "type": "2-hop"
+  },
+  {
+    "id": 9,
+    "question": "How is Google related to AlphaFold?",
+    "expected_answer": "Google acquired DeepMind, and DeepMind developed AlphaFold.",
+    "type": "2-hop"
+  },
+  {
+    "id": 10,
+    "question": "What is the connection between Microsoft and GitHub Copilot?",
+    "expected_answer": "Microsoft acquired GitHub, and GitHub Copilot is powered by OpenAI models.",
+    "type": "2-hop"
+  },
+  {
+    "id": 11,
+    "question": "What is the connection between Microsoft and OpenAI models?",
+    "expected_answer": "Microsoft invested in OpenAI and integrated OpenAI models into Azure AI, Microsoft Copilot, GitHub Copilot, and Bing Chat.",
+    "type": "2-hop"
+  },
+  {
+    "id": 12,
+    "question": "Which company acquired YouTube?",
+    "expected_answer": "Google acquired YouTube.",
+    "type": "1-hop"
+  },
+  {
+    "id": 13,
+    "question": "Which company acquired Android?",
+    "expected_answer": "Google acquired Android.",
+    "type": "1-hop"
+  },
+  {
+    "id": 14,
+    "question": "Which company acquired LinkedIn?",
+    "expected_answer": "Microsoft acquired LinkedIn.",
+    "type": "1-hop"
+  },
+  {
+    "id": 15,
+    "question": "Who founded NVIDIA?",
+    "expected_answer": "NVIDIA was founded by Jensen Huang, Chris Malachowsky, and Curtis Priem.",
+    "type": "1-hop"
+  },
+  {
+    "id": 16,
+    "question": "What does NVIDIA develop for AI?",
+    "expected_answer": "NVIDIA develops GPUs used for AI training and inference.",
+    "type": "1-hop"
+  },
+  {
+    "id": 17,
+    "question": "Who founded Anthropic?",
+    "expected_answer": "Anthropic was founded by Dario Amodei and Daniela Amodei.",
+    "type": "1-hop"
+  },
+  {
+    "id": 18,
+    "question": "What does Anthropic develop?",
+    "expected_answer": "Anthropic develops Claude.",
+    "type": "1-hop"
+  },
+  {
+    "id": 19,
+    "question": "What is the connection between Google and Android?",
+    "expected_answer": "Google acquired Android, and Android became a major mobile operating system.",
+    "type": "2-hop"
+  },
+  {
+    "id": 20,
+    "question": "What is the connection between Microsoft and LinkedIn?",
+    "expected_answer": "Microsoft acquired LinkedIn, and LinkedIn is a professional social network that uses AI for job recommendations.",
+    "type": "2-hop"
+  }
+]

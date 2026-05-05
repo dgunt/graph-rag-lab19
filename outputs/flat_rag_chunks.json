@@ -1,0 +1,22 @@
+[
+  "OpenAI was founded in 2015 by Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever, John Schulman, and Wojciech Zaremba. OpenAI develops large language models such as GPT-3, GPT-4, and GPT-4o.",
+  "Microsoft invested in OpenAI and integrated OpenAI models into Azure AI, Microsoft Copilot, GitHub Copilot, and Bing Chat.",
+  "Google was founded by Larry Page and Sergey Brin in 1998. Google developed products such as Google Search, Gmail, Android, YouTube, and Google Cloud.",
+  "DeepMind was founded by Demis Hassabis, Shane Legg, and Mustafa Suleyman. Google acquired DeepMind in 2014. DeepMind developed AlphaGo and AlphaFold.",
+  "Meta was founded by Mark Zuckerberg. Meta develops Llama, Facebook, Instagram, WhatsApp, and Reality Labs.",
+  "Anthropic was founded by Dario Amodei and Daniela Amodei. Anthropic develops Claude and focuses on AI safety.",
+  "Amazon was founded by Jeff Bezos. Amazon operates AWS, which provides cloud computing services and AI infrastructure.",
+  "NVIDIA was founded by Jensen Huang, Chris Malachowsky, and Curtis Priem. NVIDIA develops GPUs used for AI training and inference.",
+  "Tesla was founded by Martin Eberhard and Marc Tarpenning. Elon Musk later became CEO of Tesla. Tesla develops electric vehicles, Autopilot, and robotics systems.",
+  "Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne. Apple develops iPhone, macOS, iOS, and Apple Intelligence.",
+  "GitHub was acquired by Microsoft in 2018. GitHub provides code hosting and developer collaboration tools. GitHub Copilot is powered by OpenAI models.",
+  "YouTube was acquired by Google in 2006. YouTube is a video-sharing platform and is integrated with Google advertising services.",
+  "Android was acquired by Google in 2005. Android became a major mobile operating system used by many smartphone manufacturers.",
+  "LinkedIn was acquired by Microsoft in 2016. LinkedIn is a professional social network and uses AI for job recommendations.",
+  "Hugging Face was founded by Clément Delangue, Julien Chaumond, and Thomas Wolf. Hugging Face provides open-source machine learning models and datasets.",
+  "Mistral AI was founded in France by Arthur Mensch, Guillaume Lample, and Timothée Lacroix. Mistral AI develops open-weight large language models.",
+  "Perplexity AI develops an AI-powered answer engine that combines search with large language models.",
+  "Databricks was founded by the creators of Apache Spark. Databricks provides a lakehouse platform for data engineering, analytics, and machine learning.",
+  "Snowflake provides a cloud data platform used for data warehousing, analytics, and AI workloads.",
+  "Oracle develops database systems and cloud infrastructure. Oracle Cloud supports enterprise applications and AI workloads."
+]

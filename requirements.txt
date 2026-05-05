@@ -1,0 +1,9 @@
+openai
+python-dotenv
+networkx
+matplotlib
+pandas
+faiss-cpu
+numpy
+tqdm
+pytest

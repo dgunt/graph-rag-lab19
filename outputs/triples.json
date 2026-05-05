@@ -1,0 +1,417 @@
+[
+  {
+    "subject": "OPENAI",
+    "relation": "FOUNDED_BY",
+    "object": "SAM ALTMAN"
+  },
+  {
+    "subject": "OPENAI",
+    "relation": "FOUNDED_BY",
+    "object": "ELON MUSK"
+  },
+  {
+    "subject": "OPENAI",
+    "relation": "FOUNDED_BY",
+    "object": "GREG BROCKMAN"
+  },
+  {
+    "subject": "OPENAI",
+    "relation": "FOUNDED_BY",
+    "object": "ILYA SUTSKEVER"
+  },
+  {
+    "subject": "OPENAI",
+    "relation": "FOUNDED_BY",
+    "object": "JOHN SCHULMAN"
+  },
+  {
+    "subject": "OPENAI",
+    "relation": "FOUNDED_BY",
+    "object": "WOJCIECH ZAREMBA"
+  },
+  {
+    "subject": "OPENAI",
+    "relation": "DEVELOPS",
+    "object": "GPT-3"
+  },
+  {
+    "subject": "OPENAI",
+    "relation": "DEVELOPS",
+    "object": "GPT-4"
+  },
+  {
+    "subject": "OPENAI",
+    "relation": "DEVELOPS",
+    "object": "GPT-4O"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "INVESTED_IN",
+    "object": "OpenAI"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "INTEGRATED",
+    "object": "OpenAI models"
+  },
+  {
+    "subject": "OpenAI models",
+    "relation": "INTO",
+    "object": "Azure AI"
+  },
+  {
+    "subject": "OpenAI models",
+    "relation": "INTO",
+    "object": "Microsoft Copilot"
+  },
+  {
+    "subject": "OpenAI models",
+    "relation": "INTO",
+    "object": "GitHub Copilot"
+  },
+  {
+    "subject": "OpenAI models",
+    "relation": "INTO",
+    "object": "Bing Chat"
+  },
+  {
+    "subject": "GOOGLE",
+    "relation": "FOUNDED_BY",
+    "object": "LARRY_PAGE"
+  },
+  {
+    "subject": "GOOGLE",
+    "relation": "FOUNDED_BY",
+    "object": "SERGEY_BRIN"
+  },
+  {
+    "subject": "GOOGLE",
+    "relation": "DEVELOPED_PRODUCT",
+    "object": "GOOGLE_SEARCH"
+  },
+  {
+    "subject": "GOOGLE",
+    "relation": "DEVELOPED_PRODUCT",
+    "object": "GMAIL"
+  },
+  {
+    "subject": "GOOGLE",
+    "relation": "DEVELOPED_PRODUCT",
+    "object": "ANDROID"
+  },
+  {
+    "subject": "GOOGLE",
+    "relation": "DEVELOPED_PRODUCT",
+    "object": "YOUTUBE"
+  },
+  {
+    "subject": "GOOGLE",
+    "relation": "DEVELOPED_PRODUCT",
+    "object": "GOOGLE_CLOUD"
+  },
+  {
+    "subject": "DEEP_MIND",
+    "relation": "FOUNDED_BY",
+    "object": "DEMIS_HASSABIS"
+  },
+  {
+    "subject": "DEEP_MIND",
+    "relation": "FOUNDED_BY",
+    "object": "SHANE_LEGG"
+  },
+  {
+    "subject": "DEEP_MIND",
+    "relation": "FOUNDED_BY",
+    "object": "MUSTAFA_SULEYMAN"
+  },
+  {
+    "subject": "GOOGLE",
+    "relation": "ACQUIRED",
+    "object": "DEEP_MIND"
+  },
+  {
+    "subject": "DEEP_MIND",
+    "relation": "DEVELOPED",
+    "object": "ALPHAGO"
+  },
+  {
+    "subject": "DEEP_MIND",
+    "relation": "DEVELOPED",
+    "object": "ALPHAFOLD"
+  },
+  {
+    "subject": "META",
+    "relation": "FOUNDED_BY",
+    "object": "MARK_ZUCKERBERG"
+  },
+  {
+    "subject": "META",
+    "relation": "DEVELOPS",
+    "object": "LLAMA"
+  },
+  {
+    "subject": "META",
+    "relation": "DEVELOPS",
+    "object": "FACEBOOK"
+  },
+  {
+    "subject": "META",
+    "relation": "DEVELOPS",
+    "object": "INSTAGRAM"
+  },
+  {
+    "subject": "META",
+    "relation": "DEVELOPS",
+    "object": "WHATSAPP"
+  },
+  {
+    "subject": "META",
+    "relation": "DEVELOPS",
+    "object": "REALITY_LABS"
+  },
+  {
+    "subject": "ANTHROPIC",
+    "relation": "FOUNDED_BY",
+    "object": "DARIO AMODEI"
+  },
+  {
+    "subject": "ANTHROPIC",
+    "relation": "FOUNDED_BY",
+    "object": "DANIELA AMODEI"
+  },
+  {
+    "subject": "ANTHROPIC",
+    "relation": "DEVELOPS",
+    "object": "CLAUDE"
+  },
+  {
+    "subject": "AMAZON",
+    "relation": "FOUNDED_BY",
+    "object": "JEFF_BEZOS"
+  },
+  {
+    "subject": "AMAZON",
+    "relation": "OPERATES",
+    "object": "AWS"
+  },
+  {
+    "subject": "AWS",
+    "relation": "PROVIDES",
+    "object": "CLOUD_COMPUTING_SERVICES"
+  },
+  {
+    "subject": "AWS",
+    "relation": "PROVIDES",
+    "object": "AI_INFRASTRUCTURE"
+  },
+  {
+    "subject": "NVIDIA",
+    "relation": "FOUNDED_BY",
+    "object": "Jensen Huang"
+  },
+  {
+    "subject": "NVIDIA",
+    "relation": "FOUNDED_BY",
+    "object": "Chris Malachowsky"
+  },
+  {
+    "subject": "NVIDIA",
+    "relation": "FOUNDED_BY",
+    "object": "Curtis Priem"
+  },
+  {
+    "subject": "NVIDIA",
+    "relation": "DEVELOPS",
+    "object": "GPUs"
+  },
+  {
+    "subject": "GPUs",
+    "relation": "USED_FOR",
+    "object": "AI training"
+  },
+  {
+    "subject": "GPUs",
+    "relation": "USED_FOR",
+    "object": "AI inference"
+  },
+  {
+    "subject": "TESLA",
+    "relation": "FOUNDED_BY",
+    "object": "MARTIN EBERHARD"
+  },
+  {
+    "subject": "TESLA",
+    "relation": "FOUNDED_BY",
+    "object": "MARC TARPENNING"
+  },
+  {
+    "subject": "ELON MUSK",
+    "relation": "BECAME_CEO_OF",
+    "object": "TESLA"
+  },
+  {
+    "subject": "TESLA",
+    "relation": "DEVELOPS",
+    "object": "ELECTRIC VEHICLES"
+  },
+  {
+    "subject": "TESLA",
+    "relation": "DEVELOPS",
+    "object": "AUTOPILOT"
+  },
+  {
+    "subject": "TESLA",
+    "relation": "DEVELOPS",
+    "object": "ROBOTICS SYSTEMS"
+  },
+  {
+    "subject": "APPLE",
+    "relation": "FOUNDED_BY",
+    "object": "STEVE_JOBS"
+  },
+  {
+    "subject": "APPLE",
+    "relation": "FOUNDED_BY",
+    "object": "STEVE_WOZNIAK"
+  },
+  {
+    "subject": "APPLE",
+    "relation": "FOUNDED_BY",
+    "object": "RONALD_WAYNE"
+  },
+  {
+    "subject": "APPLE",
+    "relation": "DEVELOPS",
+    "object": "IPHONE"
+  },
+  {
+    "subject": "APPLE",
+    "relation": "DEVELOPS",
+    "object": "MACOS"
+  },
+  {
+    "subject": "APPLE",
+    "relation": "DEVELOPS",
+    "object": "IOS"
+  },
+  {
+    "subject": "APPLE",
+    "relation": "DEVELOPS",
+    "object": "APPLE_INTELLIGENCE"
+  },
+  {
+    "subject": "GITHUB",
+    "relation": "ACQUIRED_BY",
+    "object": "MICROSOFT"
+  },
+  {
+    "subject": "GITHUB",
+    "relation": "PROVIDES",
+    "object": "CODE_HOSTING_AND_DEVELOPER_COLLABORATION_TOOLS"
+  },
+  {
+    "subject": "GITHUB_COPILOT",
+    "relation": "POWERED_BY",
+    "object": "OPENAI_MODELS"
+  },
+  {
+    "subject": "YOUTUBE",
+    "relation": "ACQUIRED_BY",
+    "object": "GOOGLE"
+  },
+  {
+    "subject": "YOUTUBE",
+    "relation": "IS_A",
+    "object": "VIDEO_SHARING_PLATFORM"
+  },
+  {
+    "subject": "YOUTUBE",
+    "relation": "INTEGRATED_WITH",
+    "object": "GOOGLE_ADVERTISING_SERVICES"
+  },
+  {
+    "subject": "ANDROID",
+    "relation": "ACQUIRED_BY",
+    "object": "GOOGLE"
+  },
+  {
+    "subject": "ANDROID",
+    "relation": "IS_A",
+    "object": "MOBILE_OPERATING_SYSTEM"
+  },
+  {
+    "subject": "LINKEDIN",
+    "relation": "ACQUIRED_BY",
+    "object": "MICROSOFT"
+  },
+  {
+    "subject": "LINKEDIN",
+    "relation": "USES_TECHNOLOGY",
+    "object": "AI"
+  },
+  {
+    "subject": "HUGGING_FACE",
+    "relation": "FOUNDED_BY",
+    "object": "CLÉMENT_DELANGUE"
+  },
+  {
+    "subject": "HUGGING_FACE",
+    "relation": "FOUNDED_BY",
+    "object": "JULIEN_CHAUMOND"
+  },
+  {
+    "subject": "HUGGING_FACE",
+    "relation": "FOUNDED_BY",
+    "object": "THOMAS_WOLF"
+  },
+  {
+    "subject": "HUGGING_FACE",
+    "relation": "PROVIDES",
+    "object": "OPEN_SOURCE_MACHINE_LEARNING_MODELS"
+  },
+  {
+    "subject": "HUGGING_FACE",
+    "relation": "PROVIDES",
+    "object": "DATASETS"
+  },
+  {
+    "subject": "MISTRAL_AI",
+    "relation": "FOUNDED_BY",
+    "object": "ARTHUR_MENSCH"
+  },
+  {
+    "subject": "MISTRAL_AI",
+    "relation": "FOUNDED_BY",
+    "object": "GUILLAUME_LAMPLE"
+  },
+  {
+    "subject": "MISTRAL_AI",
+    "relation": "FOUNDED_BY",
+    "object": "TIMOTHEE_LACROIX"
+  },
+  {
+    "subject": "MISTRAL_AI",
+    "relation": "DEVELOPS",
+    "object": "OPEN_WEIGHT_LARGE_LANGUAGE_MODELS"
+  },
+  {
+    "subject": "PERPLEXITY AI",
+    "relation": "DEVELOPS",
+    "object": "AI-POWERED ANSWER ENGINE"
+  },
+  {
+    "subject": "DATABRICKS",
+    "relation": "FOUNDED_BY",
+    "object": "CREATORS OF APACHE SPARK"
+  },
+  {
+    "subject": "DATABRICKS",
+    "relation": "PROVIDES",
+    "object": "LAKEHOUSE PLATFORM"
+  },
+  {
+    "subject": "SNOWFLAKE",
+    "relation": "PROVIDES",
+    "object": "CLOUD_DATA_PLATFORM"
+  }
+]
